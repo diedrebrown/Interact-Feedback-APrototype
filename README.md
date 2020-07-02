@@ -1,5 +1,7 @@
 # Interact/Feedback: A Prototype
-A BBC:microbit textile installation prototype made in Python for INFO 697 at Pratt Institute School of Information
+A BBC:microbit textile installation prototype made in Python for INFO 697 at Pratt Institute School of Information.
+A short video of this project may be viewed through this link: https://tinyurl.com/interactfeedback20
+
 1.	Create radio based signal codes for the micro:bit in the Python Mu Editor or the micro:bit web editor for Python.
 2.	Table Top Micro:Bit
 - To this micro:bit three sensors are attached: the PIR motion sensor, the capacitive touch sensor, and a digital white light. Place the motion sensor so that it is uppermost but not readily visible.
