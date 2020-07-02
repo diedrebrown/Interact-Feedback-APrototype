@@ -1,5 +1,6 @@
 # Interact/Feedback: A Prototype
 A BBC:microbit textile installation prototype made in Python for INFO 697 at Pratt Institute School of Information.
+
 A short video of this project may be viewed through this link: https://tinyurl.com/interactfeedback20
 
 1.	Create radio based signal codes for the micro:bit in the Python Mu Editor or the micro:bit web editor for Python.
@@ -8,6 +9,5 @@ A short video of this project may be viewed through this link: https://tinyurl.c
 - If the micro:bit is not sensing activity near it, it will attempt to generate some by illuminating the morse code for ‘Z’.
 3.	Radio
 - On test to understand the range of the radio, I found that on Power 4 the radio were still communicating with each other while separated approximately 530 feet outdoors. 
- 
 4.	Hanging Micro:Bit 
 - To this micro:bit conductive thread was used to connect three LEDs and a resistor.
